@@ -4,3 +4,5 @@ changes from mynewbranch
 --changes from newbranch
 ------------------------------
 another new branch changes
+------------------------------
+third
