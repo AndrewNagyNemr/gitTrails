@@ -7,3 +7,5 @@ another new branch changes
 ------------------------------
 third
 master conflicting third branch
+--------------------------------
+modifying the master to try the rebase
