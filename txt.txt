@@ -2,3 +2,5 @@ my first code
 changes from mynewbranch
 --changes from master branch
 --changes from newbranch
+--------------------------------
+another new branch changes
