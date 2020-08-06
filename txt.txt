@@ -9,3 +9,4 @@ third
 master conflicting third branch
 --------------------------------
 modifying the master to try the rebase
+another time modifying the master to try the rebase
