@@ -5,4 +5,5 @@ changes from mynewbranch
 ------------------------------
 another new branch changes
 ------------------------------
+third
 master conflicting third branch
